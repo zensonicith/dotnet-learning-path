@@ -1,20 +1,15 @@
-day1/day1.csproj
-day1/day1.sln
-day1/obj/*
-day1/bin/*
+HelloWorld/bin
+HelloWorld/obj
+HelloWorld/day1.csproj
+HelloWorld/day1.sln
 
-day2/day2.csproj
-day2/day2.sln
-day2/obj/*
-day2/bin/*
+Variables_DataTypes_Operations/bin
+Variables_DataTypes_Operations/obj
+Variables_DataTypes_Operations/day2.csproj
+Variables_DataTypes_Operations/day2.sln
 
-day3/day3.csproj
-day3/day3.sln
-day3/obj/*
-day3/bin/*
-
-day4/day4.csproj
-day4/day4.sln
-day4/obj/*
-day4/bin/*
+Control_Flow/bin
+Control_Flow/obj
+Control_Flow/day3.csproj
+Control_Flow/day3.sln
 
